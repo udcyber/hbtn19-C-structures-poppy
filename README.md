@@ -26,6 +26,11 @@ You are allowed to use the standard library
 If an element of d is NULL, print (nil) instead of this element. (if name is NULL, print Name: (nil))
 If d is NULL print nothing.
 
+desired output:
+Name: Poppy
+Age: 3.500000
+Owner: Bob
+
 -----------------------------------------------------------
 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
 
