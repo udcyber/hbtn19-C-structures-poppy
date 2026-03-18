@@ -2,11 +2,10 @@
 #define DOG_H
 
 /**
- * struct dog - function dog
+ * struct dog - function structure defined by dog_t
  * @name: char*
  * @age: float
  * @owner: char*
- *
  */
 
 typedef struct dog
